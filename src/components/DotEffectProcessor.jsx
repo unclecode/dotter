@@ -350,7 +350,7 @@ const DotEffectProcessor = () => {
                 </Card>
 
                 <footer className="py-4 text-center text-sm text-gray-500 dark:text-gray-400">
-
+                    Version 1.0.0, check the repo <a href="https://github.com/unclecode/dotter" className="text-blue-600 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300">https://github.com/unclecode/dotter</a>
                 </footer>
             </div>
 
